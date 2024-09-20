@@ -88,3 +88,12 @@ git branch -a or git branch
 
 git switch <tên nhánh>
 => Chuyển qua nhánh <tên nhánh>
+
+### git pull
+
+=> pull code ở repo remote về local
+git pull --no-ff
+
+### git clone <url repo>
+
+=> Dùng để clone source code của 1 repo bất kỳ
